@@ -5,12 +5,6 @@ Sklearn
 Pickle
 
 
-Recording link: 
-https://youtu.be/AzRHRQplIlw
-We would like to enter this video into all competitions.
-
-
-As we communicated to Rich, Gradescope was not allowing us to submit. To try to fix the Gradescope issue, Rich deleted our original submission, which we had successfully submitted 24 hours before our live demo. In the end, we were only able to submit our README.txt and Report.pdf through Gradescope, not our CODE.zip. Our code is linked at the bottom of this README. We also sent our code to Rich.
 
 
 Users Guru: Toni Iuzzolino
